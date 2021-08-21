@@ -1,7 +1,7 @@
-# cashloris
-cashloris using on website stress test's
+# Cashloris
+**Cashloris using on website stress test's
 
-git clone cashloris/url
+git clone https://github.com/KayessBy/cashloris
 
 cd cashloris
 
