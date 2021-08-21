@@ -1,7 +1,5 @@
 # Cashloris
 
-# Cashloris using on website stress test's
-
 git clone https://github.com/KayessBy/cashloris
 
 cd cashloris
